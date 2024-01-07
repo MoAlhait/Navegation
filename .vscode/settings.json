@@ -28,5 +28,7 @@
     },
     "minimap.background": "#00000000",
     "scrollbar.shadow": "#00000000"
-  }
+  },
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "eslint.debug": true
 }

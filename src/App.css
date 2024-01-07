@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.card {
+  width: 50vw;
+  height: 50vw;
+  background-color: white;
+  border-radius: 10px;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 50px;
+}
+
+.rating-wheel {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  position: relative;
+  overflow: hidden;
+}
